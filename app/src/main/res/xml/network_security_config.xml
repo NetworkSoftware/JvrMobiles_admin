@@ -2,5 +2,7 @@
 <network-security-config>
     <domain-config cleartextTrafficPermitted="true">
         <domain includeSubdomains="true">thestockbazaar.com</domain>
+     <!--  <domain includeSubdomains="true">prisma</domain>
+        <domain includeSubdomains="true">192.168.1.100</domain>-->
     </domain-config>
 </network-security-config>

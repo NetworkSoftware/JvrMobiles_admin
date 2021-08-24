@@ -1,41 +1,33 @@
 {
   "project_info": {
-    "project_number": "763954224350",
-    "project_id": "yalu-admin",
-    "storage_bucket": "yalu-admin.appspot.com"
+    "project_number": "361513788378",
+    "project_id": "jvrmobiles-c2dbe",
+    "storage_bucket": "jvrmobiles-c2dbe.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:763954224350:android:24c7ff08685357a3f1f64f",
+        "mobilesdk_app_id": "1:361513788378:android:01bad59219f3d706b1d6e3",
         "android_client_info": {
-          "package_name": "pro.network.yaluadmin"
+          "package_name": "pro.network.jvradmin"
         }
       },
       "oauth_client": [
         {
-          "client_id": "763954224350-crnchrrhp7kidicrogvuc8sprelj346q.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "pro.network.yaluadmin",
-            "certificate_hash": "1930ce8f7d9b02cfe1d28be6e1dbba4a9be93253"
-          }
-        },
-        {
-          "client_id": "763954224350-58o10asvov9ab83s2hjbe1fcf04f9uqa.apps.googleusercontent.com",
+          "client_id": "361513788378-577nmo4p39m5ueplhutf9u3gshc9313l.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCMEcVlSl70H96fC8L9TK6X9mGBs_kUy5Y"
+          "current_key": "AIzaSyDTFvjJJB8SfOFUWxgosU7t5a7ORQn1gDY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "763954224350-58o10asvov9ab83s2hjbe1fcf04f9uqa.apps.googleusercontent.com",
+              "client_id": "361513788378-577nmo4p39m5ueplhutf9u3gshc9313l.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

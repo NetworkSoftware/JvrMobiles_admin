@@ -201,7 +201,8 @@ public class MultipleImagePreviewActivity extends AppCompatActivity {
                 item.sdcardPath = stringArrayList.get(i);
                 item.sdCardUri = Uri.parse(stringArrayList.get(i));
 
-                item.sdcardPath = BitmapDecoder.getBitmap(stringArrayList.get(i), MultipleImagePreviewActivity.this);
+                item.sdcardPath = BitmapDecoder.getBitmap(stringArrayList.get(i),
+                        MultipleImagePreviewActivity.this);
                 item.sdCardUri = (Uri.parse(item.sdcardPath));
 
                 dataT.put(item.sdcardPath, item);

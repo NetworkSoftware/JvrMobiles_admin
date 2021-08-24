@@ -27,7 +27,7 @@
         android:layout_gravity="center"
         android:padding="10dp"
         android:layout_marginTop="10dp"
-        android:src="@drawable/yalulogo"/>
+        android:src="@drawable/jvr_logo"/>
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

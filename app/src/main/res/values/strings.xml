@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">YALU Admin</string>
+    <string name="app_name">JVR MOBILES ADMIN</string>
 
     <string name="action_settings">Settings</string>
     <string name="toolbar_title">Stock</string>
@@ -16,7 +16,7 @@
     <string name="stock">Stock</string>
     <string name="banner">Banner</string>
     <string name="order">Orders</string>
-    <string name="image_provider">pro.network.yaluadmin.provider</string>
+    <string name="image_provider">pro.network.jvradmin.provider</string>
 
 
 </resources>

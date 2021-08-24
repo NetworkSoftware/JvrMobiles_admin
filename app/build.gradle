@@ -1,11 +1,11 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 28
+    compileSdkVersion 30
     defaultConfig {
-        applicationId "pro.network.yaluadmin"
+        applicationId "pro.network.jvradmin"
         minSdkVersion 17
-        targetSdkVersion 28
+        targetSdkVersion 30
         versionCode 1
         useLibrary 'org.apache.http.legacy'
         multiDexEnabled true
